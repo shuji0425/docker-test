@@ -23,7 +23,6 @@ cp .env.example .env
 <br>
 
 4. 環境構築を行う
-<br>
 
 + Docker Desktopを開く
 + docker-compose.ymlがある階層で行う
@@ -53,7 +52,7 @@ php artisan config:cache
 ```
 <br>
 
-6. DBにデータを入れる
+7. DBにデータを入れる
 ```bash
 php artisan migrate
 ```
