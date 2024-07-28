@@ -9,7 +9,9 @@ git clone https://github.com/shuji0425/docker-test.git
 ```
 <br>
 2. 環境構築を行う
-docker-compose.ymlがある階層で行う
+<br>
+・Docker Desktopを開く
+・docker-compose.ymlがある階層で行う
 
 ```
 docker-compose up -d --build
