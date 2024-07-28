@@ -10,7 +10,9 @@ git clone https://github.com/shuji0425/docker-test.git
 <br>
 
 2. コンポーザーのインストール
+
 クローンを行ったディレクトリに移動
+または、作成したフォルダをVScodeで開く
 ```bash
 cd docker-test
 ```
