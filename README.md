@@ -28,6 +28,11 @@ cp .env.example .env
 + Docker Desktopを開く
 + docker-compose.ymlがある階層で行う
 
+docker-compose.ymlのある階層に移動
+```bash
+cd ../
+```
+dockerを立ち上げる
 ```bash
 docker-compose up -d --build
 ```
