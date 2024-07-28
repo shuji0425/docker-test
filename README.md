@@ -1,5 +1,5 @@
 # Laravelの始め方
-
+0. Docker Desktopをインストールする
 
 <br>
 1. ターミナルにてgit cloneを行う
@@ -10,6 +10,11 @@ git clone https://github.com/shuji0425/docker-test.git
 <br>
 
 2. コンポーザーのインストール
+クローンを行ったディレクトリに移動
+```bash
+cd docker-test
+```
+コンポーザーのインストール
 ```bash
 cd laravel-app
 composer install
